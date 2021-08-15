@@ -1,0 +1,38 @@
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\bin\Debug\netcoreapp3.1\Guessing Game.exe
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\bin\Debug\netcoreapp3.1\Guessing Game.deps.json
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\bin\Debug\netcoreapp3.1\Guessing Game.runtimeconfig.json
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\bin\Debug\netcoreapp3.1\Guessing Game.runtimeconfig.dev.json
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\bin\Debug\netcoreapp3.1\Guessing Game.dll
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\bin\Debug\netcoreapp3.1\Guessing Game.pdb
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\bin\Debug\netcoreapp3.1\Guessing Game.Views.dll
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\bin\Debug\netcoreapp3.1\Guessing Game.Views.pdb
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.csprojAssemblyReference.cache
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.AssemblyInfoInputs.cache
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.AssemblyInfo.cs
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.RazorAssemblyInfo.cache
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.RazorAssemblyInfo.cs
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\staticwebassets\Guessing Game.StaticWebAssets.Manifest.cache
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\staticwebassets\Guessing Game.StaticWebAssets.xml
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\scopedcss\bundle\Guessing Game.styles.css
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.TagHelpers.input.cache
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.TagHelpers.output.cache
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.RazorCoreGenerate.cache
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Razor\Views\Home\GameView.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.RazorTargetAssemblyInfo.cache
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.RazorTargetAssemblyInfo.cs
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.Views.pdb
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.dll
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.pdb
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.genruntimeconfig.cache
+C:\Users\cenny\Downloads\ASP-.NET-Core-Web-App-Guessing-Game--main\ASP-.NET-Core-Web-App-Guessing-Game--main\obj\Debug\netcoreapp3.1\Guessing Game.csproj.CopyComplete
