@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "Course Details";
+}
+<h2>Details of '@Html.Display("CourseName")' Course</h2>
+<h5 class="text-info">Student List under '@Html.Display("CourseName")' course</h5>
+<table class="table" border="1">
+    <tr>
+        <th>Student Id</th>
+        <th>Student Name</th>
+        <th>Student Qualification</th>
+        <th>Student City</th>
+    </tr>
+    @foreach (var item in ViewBag.StudentData as IEnumerable<EFW_Assignment.Models.CourseVM>)
+    {
+        <tr>
+            <td>@item.slist.StudentId</td>
+            <td>@item.slist.FirstName</td>
+            <td>@item.slist.Qualification</td>
+            <td>@item.slist.City</td>
+        </tr>
+    }
+</table>
+<br />
+<h5 class="text-info">Teacher List under '@Html.Display("CourseName")' course</h5>
+<table class="table" border="1">
+    <tr>
+        <th>Teacher Id</th>
+        <th>Teacher Name</th>
+    </tr>
+    @foreach (var item in ViewBag.TeacherData as IEnumerable<EFW_Assignment.Models.CourseVM>)
+    {
+        <tr>
+            <td>@item.teacherlist.TeacherId</td>
+            <td>@item.teacherlist.Name</td>           
+        </tr>
+    }
+</table>
+<br />
+<h5 class="text-info">    Assignment List under '@Html.Display("CourseName")' course</h5>
+    <table class="table" border="1">
+        <tr>
+            <th>Assignment Id</th>
+            <th>Assignment Name</th>
+        </tr>
+        @foreach (var item in ViewBag.AssignmentData as IEnumerable<EFW_Assignment.Models.CourseVM>)
+        {
+            <tr>
+                <td>@item.assignmentlist.AssignmentId</td>
+                <td>@item.assignmentlist.Name</td>
+            </tr>
+        }
+    </table>
+    <br />
+    <div>
+        @Html.ActionLink("Back to List", "CourseView")
+    </div>

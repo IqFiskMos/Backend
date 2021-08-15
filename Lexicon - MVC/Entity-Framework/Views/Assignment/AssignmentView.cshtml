@@ -1,0 +1,32 @@
+﻿
+@model IEnumerable<EFW_Assignment.Models.Assignment>
+
+@using EFW_Assignment.Models
+
+@{
+    ViewBag.Title = "Assignment List";
+}
+<p>
+    @Html.ActionLink("Add New Assignment", "CreateAssignment")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Assignment Name
+        </th>
+        @*<th>
+                Time Period
+            </th>*@
+        <th>
+            Course Id
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <partial name="_AssignmentList" model="item" />
+    }
+</table>

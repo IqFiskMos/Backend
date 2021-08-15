@@ -1,0 +1,19 @@
+﻿@using EFW_Assignment.Models
+@model EFW_Assignment.Models.Course
+
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.CourseId)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.CourseName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.TimePeriod)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "EditCourse", new { id = Model.CourseId }) |
+        @Html.ActionLink("Details", "CourseDetails", new { id = Model.CourseId }) |
+        @Html.ActionLink("Delete", "DeleteCourse", new { id = Model.CourseId })
+    </td>
+</tr>

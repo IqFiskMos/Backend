@@ -1,0 +1,21 @@
+﻿@using EFW_Assignment.Models
+@model EFW_Assignment.Models.Assignment
+
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.AssignmentId)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.Name)
+    </td>
+    <td>
+
+        @Html.DisplayFor(modelItem => modelItem.CourseId)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "EditAssignment", new { id = Model.AssignmentId }) |
+        @Html.ActionLink("Details", "AssignmentDetails", new { id = Model.AssignmentId }) |
+        @Html.ActionLink("Delete", "DeleteAssignment", new { id = Model.AssignmentId })
+    </td>
+</tr>
+@Html.DisplayFor(item => item.Course.CourseName)

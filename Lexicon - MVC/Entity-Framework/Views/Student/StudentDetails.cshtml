@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details of '@Html.Display("FirstName")' </h2>
+<hr />
+<div class="container">
+    <p><b>First Name: </b>@Html.Display("FirstName")</p>
+    <p><b>Last Name: </b>@Html.Display("LastName")</p>
+    <p><b>Qualification: </b>@Html.Display("Qualification")</p>
+    <p><b>City: </b>@Html.Display("City")</p>
+</div>
+<div class="container">
+    @Html.ActionLink("Back to List", "StudentView")
+</div>

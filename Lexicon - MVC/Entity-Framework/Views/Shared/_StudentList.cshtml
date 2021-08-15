@@ -1,0 +1,28 @@
+﻿
+@using EFW_Assignment.Models
+@model EFW_Assignment.Models.Student
+
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.StudentId)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.FirstName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.LastName)
+    </td> 
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.Qualification)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.City)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "EditStudent", new { id = Model.StudentId }) |
+        @Html.ActionLink("Details", "StudentDetails", new { id = Model.StudentId }) |
+        @Html.ActionLink("Delete", "DeleteStudent", new { id = Model.StudentId })
+    </td>
+</tr>
+
+

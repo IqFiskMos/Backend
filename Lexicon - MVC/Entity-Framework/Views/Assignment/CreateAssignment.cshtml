@@ -1,0 +1,23 @@
+﻿
+@model EFW_Assignment.Models.Assignment
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Create"] = true;
+}
+<h2>@ViewBag.Title New Assignment</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <partial name="_AssignmentEditAndCreate" view-data="ViewData" />
+}
+@if (ViewBag.CreateErrMsg != null)
+{
+    @ViewBag.CreateErrMsg
+}
+
+<div class="container">
+    @Html.ActionLink("Back to List", "AssignmentView")
+</div>

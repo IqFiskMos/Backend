@@ -1,0 +1,20 @@
+﻿
+@model EFW_Assignment.Models.Teacher
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Create"] = false;
+}
+<h2>Edit '@Html.Display("Name")' Details</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <partial name="_TeacherEditAndCreate" view-data="ViewData" />
+}
+
+<div class="container">
+    @Html.ActionLink("Back to List", "TeacherView")
+</div>

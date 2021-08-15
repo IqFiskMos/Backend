@@ -1,0 +1,40 @@
+
+@model EFW_Assignment.Models.StudentCourse
+
+@{
+    ViewBag.Title = "Add StudentCourse";
+}
+@if (ViewBag.ErrorMsg != null)
+{
+    <h4>@ViewBag.ErrorMsg</h4>
+    <p>Check List again and create.</p>
+    <div>
+        @Html.ActionLink("Back to List", "StudentCourseView")
+    </div>
+}
+else
+{
+<h2>Add New</h2>
+
+<form action="/StudentCourse/CreateStudentCourse" method="post">
+
+    Student Name @Html.DropDownListFor(model => model.StudentId, ViewBag.StudentNames as SelectList, new { @class = "dropdown" })
+    <br />
+    <br />
+    Select Course<ul style="list-style-type:none;">
+        @foreach (var course in ViewBag.CourseNames)
+        {
+            <li>
+                <input type="checkbox" name="CourseIds" value="@course.CourseId" />
+                @course.CourseName
+            </li>
+        }
+    </ul>
+    <input type="submit" value="Assign Course To Student" />
+</form>
+
+<div>
+    <br />
+    @Html.ActionLink("Back to List", "StudentCourseView")
+</div>
+}
