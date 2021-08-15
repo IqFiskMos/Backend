@@ -1,0 +1,40 @@
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\bin\Debug\netcoreapp3.1\Layouts and Views.exe
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\bin\Debug\netcoreapp3.1\Layouts and Views.deps.json
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\bin\Debug\netcoreapp3.1\Layouts and Views.runtimeconfig.json
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\bin\Debug\netcoreapp3.1\Layouts and Views.runtimeconfig.dev.json
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\bin\Debug\netcoreapp3.1\Layouts and Views.dll
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\bin\Debug\netcoreapp3.1\Layouts and Views.pdb
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\bin\Debug\netcoreapp3.1\Layouts and Views.Views.dll
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\bin\Debug\netcoreapp3.1\Layouts and Views.Views.pdb
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.csprojAssemblyReference.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.AssemblyInfoInputs.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.AssemblyInfo.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.csproj.CoreCompileInputs.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.RazorAssemblyInfo.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.RazorAssemblyInfo.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\staticwebassets\Layouts and Views.StaticWebAssets.Manifest.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\staticwebassets\Layouts and Views.StaticWebAssets.xml
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\scopedcss\bundle\Layouts and Views.styles.css
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.TagHelpers.input.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.TagHelpers.output.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.RazorCoreGenerate.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Projects.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.RazorTargetAssemblyInfo.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.RazorTargetAssemblyInfo.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.Views.pdb
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.dll
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.pdb
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.genruntimeconfig.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\ASP-.NET-MVC-Core-Web-App-Layouts-and-View--main\obj\Debug\netcoreapp3.1\Layouts and Views.csproj.CopyComplete
