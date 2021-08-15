@@ -1,0 +1,60 @@
+﻿
+@model IEnumerable<View_Models.Models.PeopleModel>
+@using View_Models.Models
+@{
+    ViewBag.Title = "People List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>@ViewBag.Title</h2>
+<p>
+    @Html.ActionLink("Add New Person", "CreatePeople")
+</p>
+
+<p>
+    @using (Html.BeginForm())
+    {
+        <b>Search By: </b><br />
+        <span>CaseSensitive: </span> @Html.CheckBox("CaseSensitive", false)
+        <span> | CaseInSensitive: </span> @Html.CheckBox("CaseInSensitive", false)
+         @Html.TextBox("search");
+        <input type="submit" name="submit" value="Search" />
+    }
+</p>
+
+@if (ViewBag.result != null)
+{
+    <p class="text-danger">@ViewBag.result</p>
+}
+else
+{
+<table class="table">
+    <tr>
+        @*<th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.City)
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        @*@Html.Partial("_PeopleList")*@
+        <partial name = "_PeopleList" model = "item" />
+    }
+
+</table>
+ }
+
+        @if (ViewBag.Back == true)
+        {
+            <div class="">
+                @Html.ActionLink("Back to List", "PeopleView")
+            </div>
+        }

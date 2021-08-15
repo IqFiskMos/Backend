@@ -1,0 +1,26 @@
+﻿
+
+@using View_Models.Models
+@model View_Models.Models.PeopleModel
+
+<tr>
+    @*<td>
+            @Html.DisplayFor(modelItem => item.Id)
+        </td>*@
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.Phone)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.City)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "EditPeople", new { id = Model.Id }) |
+        @Html.ActionLink("Details", "DetailsPeople", new { id = Model.Id }) |
+        @Html.ActionLink("Delete", "DeletePeople", new { id = Model.Id })
+    </td>
+</tr>
+
+

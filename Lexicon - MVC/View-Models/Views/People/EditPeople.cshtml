@@ -1,0 +1,20 @@
+﻿
+@model View_Models.Models.PeopleModel
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Create"] = false;
+}
+<h2>Edit '@Html.Display("Name")' Details</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @*@Html.Partial("_EditPeople")*@
+    <partial name="_PartialForEditAndCreate" view-data="ViewData" />
+}
+
+<div class="container">
+    @Html.ActionLink("Back to List", "PeopleView")
+</div>

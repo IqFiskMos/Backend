@@ -1,0 +1,43 @@
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\bin\Debug\netcoreapp3.1\View Models.exe
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\bin\Debug\netcoreapp3.1\View Models.deps.json
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\bin\Debug\netcoreapp3.1\View Models.runtimeconfig.json
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\bin\Debug\netcoreapp3.1\View Models.runtimeconfig.dev.json
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\bin\Debug\netcoreapp3.1\View Models.dll
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\bin\Debug\netcoreapp3.1\View Models.pdb
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\bin\Debug\netcoreapp3.1\View Models.Views.dll
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\bin\Debug\netcoreapp3.1\View Models.Views.pdb
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.csprojAssemblyReference.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.AssemblyInfoInputs.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.AssemblyInfo.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.csproj.CoreCompileInputs.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.RazorAssemblyInfo.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.RazorAssemblyInfo.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\staticwebassets\View Models.StaticWebAssets.Manifest.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\staticwebassets\View Models.StaticWebAssets.xml
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\scopedcss\bundle\View Models.styles.css
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.TagHelpers.input.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.TagHelpers.output.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.RazorCoreGenerate.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\People\CreatePeople.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\People\DetailsPeople.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\People\EditPeople.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\People\PeopleView.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PartialForEditAndCreate.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PeopleList.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.RazorTargetAssemblyInfo.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.RazorTargetAssemblyInfo.cs
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.Views.pdb
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.dll
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.pdb
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.genruntimeconfig.cache
+C:\Users\cenny\Downloads\ASP-.NET-MVC-Core-View-Models--main\ASP-.NET-MVC-Core-View-Models--main\obj\Debug\netcoreapp3.1\View Models.csproj.CopyComplete

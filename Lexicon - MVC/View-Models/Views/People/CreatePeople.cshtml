@@ -1,0 +1,23 @@
+﻿
+@model View_Models.Models.PeopleModel
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Create"] = true;
+}
+<h2>@ViewBag.Title New People</h2>
+
+@using (Html.BeginForm())
+{
+   @Html.AntiForgeryToken()
+
+    <partial name="_PartialForEditAndCreate" view-data="ViewData" />
+}
+@if (ViewBag.CreateErrMsg != null)
+{
+    @ViewBag.CreateErrMsg
+}
+
+<div class="container">
+    @Html.ActionLink("Back to List", "PeopleView")
+</div>
